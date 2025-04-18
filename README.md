@@ -1,2 +1,3 @@
 # demo
-My first repository
+This is My first Git Repository.
+Author - Devangi 
